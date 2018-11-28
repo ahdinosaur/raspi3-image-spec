@@ -1,3 +1,6 @@
+# build result and log
+/output
+/config
 # suggested build result and log filenames
 raspi3.img
 raspi3.log
